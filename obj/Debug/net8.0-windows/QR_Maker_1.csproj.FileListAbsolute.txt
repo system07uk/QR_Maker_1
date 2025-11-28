@@ -1,43 +1,3 @@
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.csproj.AssemblyReference.cache
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.Form1.resources
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.csproj.GenerateResource.cache
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.GeneratedMSBuildEditorConfig.editorconfig
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.AssemblyInfoInputs.cache
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.AssemblyInfo.cs
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.csproj.CoreCompileInputs.cache
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\bin\Debug\net8.0-windows\QR_Maker_1.exe
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\bin\Debug\net8.0-windows\QR_Maker_1.deps.json
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\bin\Debug\net8.0-windows\QR_Maker_1.runtimeconfig.json
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\bin\Debug\net8.0-windows\QR_Maker_1.dll
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\bin\Debug\net8.0-windows\QR_Maker_1.pdb
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\bin\Debug\net8.0-windows\QRCoder.dll
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.csproj.Up2Date
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.dll
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\obj\Debug\net8.0-windows\refint\QR_Maker_1.dll
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.pdb
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.genruntimeconfig.cache
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\obj\Debug\net8.0-windows\ref\QR_Maker_1.dll
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.sourcelink.json
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\bin\Debug\net8.0-windows\QR_Maker_1.exe
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\bin\Debug\net8.0-windows\QR_Maker_1.deps.json
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\bin\Debug\net8.0-windows\QR_Maker_1.runtimeconfig.json
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\bin\Debug\net8.0-windows\QR_Maker_1.dll
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\bin\Debug\net8.0-windows\QR_Maker_1.pdb
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\bin\Debug\net8.0-windows\QRCoder.dll
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.csproj.AssemblyReference.cache
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.Form1.resources
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.csproj.GenerateResource.cache
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.GeneratedMSBuildEditorConfig.editorconfig
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.AssemblyInfoInputs.cache
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.AssemblyInfo.cs
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.csproj.CoreCompileInputs.cache
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.sourcelink.json
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.csproj.Up2Date
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.dll
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\obj\Debug\net8.0-windows\refint\QR_Maker_1.dll
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.pdb
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\obj\Debug\net8.0-windows\QR_Maker_1.genruntimeconfig.cache
-C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1\obj\Debug\net8.0-windows\ref\QR_Maker_1.dll
 C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1.1\bin\Debug\net8.0-windows\QR_Maker_1.exe
 C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1.1\bin\Debug\net8.0-windows\QR_Maker_1.deps.json
 C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1.1\bin\Debug\net8.0-windows\QR_Maker_1.runtimeconfig.json
@@ -51,6 +11,7 @@ C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR
 C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1.1\obj\Debug\net8.0-windows\QR_Maker_1.AssemblyInfoInputs.cache
 C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1.1\obj\Debug\net8.0-windows\QR_Maker_1.AssemblyInfo.cs
 C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1.1\obj\Debug\net8.0-windows\QR_Maker_1.csproj.CoreCompileInputs.cache
+C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1.1\obj\Debug\net8.0-windows\QR_Maker_1.sourcelink.json
 C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1.1\obj\Debug\net8.0-windows\QR_Maker_1.csproj.Up2Date
 C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1.1\obj\Debug\net8.0-windows\QR_Maker_1.dll
 C:\00_Data\OneDrive - system07\0001 DOC now\100 MY\1001 취미용소프트\10 QR_Maker_1.1\obj\Debug\net8.0-windows\refint\QR_Maker_1.dll
