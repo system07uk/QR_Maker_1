@@ -35,9 +35,6 @@ QR 코드 생성 도구 (C# WinForms 앱). 로컬 파일, URL, UNC 경로, CSV 배치 입력을 지
   - 1열: Path만 (이름 자동 유추).
 - ButtonBatch 클릭 → CSV 선택 → 저장 폴더 선택 → 생성.
 
-![스크린샷 예시](screenshots/main_form.png)  
-*(스크린샷 추가 추천: 앱 실행 화면 캡처 후 images/ 폴더에 업로드.)*
-
 ## 구성
 - WebDAV: HTTPS (포트 5006) 기본. 상수 수정 가능 (`Form1.cs`).
 - QR 크기: 500x500px (PixelsPerModule=10).
