@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\00_Data\\OneDrive - system07\\0001 DOC now\\100 MY\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 QR_Maker_1.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C3604AF7-F17E-4B0D-889F-3AADE92BFD14}|QR_Maker_1.csproj|c:\\00_data\\onedrive - system07\\0001 doc now\\100 my\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 qr_maker_1.1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C3604AF7-F17E-4B0D-889F-3AADE92BFD14}|QR_Maker_1.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3604AF7-F17E-4B0D-889F-3AADE92BFD14}|QR_Maker_1.csproj|c:\\00_data\\onedrive - system07\\0001 doc now\\100 my\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 qr_maker_1.1\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C3604AF7-F17E-4B0D-889F-3AADE92BFD14}|QR_Maker_1.csproj|solutionrelative:license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C3604AF7-F17E-4B0D-889F-3AADE92BFD14}|QR_Maker_1.csproj|c:\\00_data\\onedrive - system07\\0001 doc now\\100 my\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 qr_maker_1.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3604AF7-F17E-4B0D-889F-3AADE92BFD14}|QR_Maker_1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +38,37 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LICENSE.txt",
+              "DocumentMoniker": "C:\\00_Data\\OneDrive - system07\\0001 DOC now\\100 MY\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 QR_Maker_1.1\\LICENSE.txt",
+              "RelativeDocumentMoniker": "LICENSE.txt",
+              "ToolTip": "C:\\00_Data\\OneDrive - system07\\0001 DOC now\\100 MY\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 QR_Maker_1.1\\LICENSE.txt",
+              "RelativeToolTip": "LICENSE.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-28T09:36:23.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\00_Data\\OneDrive - system07\\0001 DOC now\\100 MY\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 QR_Maker_1.1\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\00_Data\\OneDrive - system07\\0001 DOC now\\100 MY\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 QR_Maker_1.1\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-28T09:35:52.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\00_Data\\OneDrive - system07\\0001 DOC now\\100 MY\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 QR_Maker_1.1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -43,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\00_Data\\OneDrive - system07\\0001 DOC now\\100 MY\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 QR_Maker_1.1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
