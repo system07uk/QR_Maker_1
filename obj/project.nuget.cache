@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dIJ7atUUU28=",
+  "success": true,
+  "projectFilePath": "C:\\00_Data\\OneDrive - system07\\0001 DOC now\\100 MY\\1001 취미용소프트\\10 QR_Maker_1.1\\QR_Maker_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HwangUnkyoo\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\HwangUnkyoo\\.nuget\\packages\\qrcoder\\1.7.0\\qrcoder.1.7.0.nupkg.sha512",
+    "C:\\Users\\HwangUnkyoo\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
