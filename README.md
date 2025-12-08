@@ -1,51 +1,77 @@
 # QR Maker 1
 
-QR �ڵ� ���� ���� (C# WinForms ��). ���� ����, URL, UNC ���, CSV ��ġ �Է��� �����ϸ�, Synology WebDAV(HTTPS) ��ȯ ��� ����.
+QR 코드 생성 도구 (C# WinForms 앱). 로컬 파일, URL, UNC 경로, CSV 배치 입력을 지원하며, Synology WebDAV(HTTPS) 변환 기능 포함.
 
-## ���
-- **���� QR ����**: ���� ���� �Ǵ� �ؽ�Ʈ/URL �Է����� QR �ڵ� ����.
-- **��ġ ����**: CSV ���Ͽ��� �뷮 QR ���� (�̸�, ���/������ ����).
-- **ECC ���� ����**: L(7%), M(15%), Q(25%), H(30%) (�⺻: H).
-- **�� �߰�**: QR �Ʒ��� ���ϸ�/��� ǥ��.
-- **��� ��ȯ**: UNC (`\\server\share`) �� WebDAV URL (`https://server:5006/share`).
-- **����**: PNG �������� �ڵ� ���� (����/����ũ��).
+## 기능
+- **단일 QR 생성**: 파일 선택 또는 텍스트/URL 입력으로 QR 코드 생성.
+- **배치 생성**: CSV 파일에서 대량 QR 생성 (이름, 경로/데이터 지원).
+- **ECC 수준 선택**: L(7%), M(15%), Q(25%), H(30%) (기본: H).
+- **라벨 추가**: QR 아래에 파일명/경로 표시.
+- **경로 변환**: UNC (`\\server\share`) → WebDAV URL (`https://server:5006/share`).
+- **저장**: PNG 형식으로 자동 저장 (로컬/데스크톱).
 
-## �䱸����
-- .NET Framework 4.7.2 �̻� (�Ǵ� .NET 6+).
-- NuGet ��Ű��: `QRCoder` (QR ���� ���̺귯��).
+## 릴리즈 노트
 
-## ��ġ
-1. GitHub���� �ҽ� �ڵ� Ŭ��:
+### v1.0 — 2025-11-28
+
+주요 변경사항 및 하이라이트:
+- QR Maker 1 최초 공개 릴리즈.
+- 로컬 파일, URL, UNC 경로 입력을 통한 단일 QR 코드 생성 기능 제공.
+- CSV를 이용한 배치 QR 생성(대량 처리) 지원.
+- ECC(오류 정정) 레벨 선택: L, M, Q, H(기본 H).
+- 라벨(파일명/경로)을 QR 이미지 하단에 자동으로 추가.
+- Synology WebDAV(HTTPS, 기본 포트 5006)용 UNC 경로 변환 기능 포함.
+- 출력 형식: PNG, 기본 크기 500x500px (PixelsPerModule=10).
+
+변경 사항(주요 기능 요약):
+- 단일 모드: 파일 선택 또는 텍스트/URL 입력으로 즉시 QR 생성 및 미리보기.
+- 배치 모드: CSV(1열 또는 2열)에서 이름/경로를 읽어 자동 저장.
+- 구성 옵션: `Form1.cs` 내부 상수로 WebDAV 포트 및 기본 동작 조정 가능.
+
+알려진 이슈 및 제한 사항:
+- .NET 런타임: .NET Framework 4.7.2 또는 .NET 6+ 권장. (프로젝트는 .NET 8 대상 환경 고려)
+- 일부 UNC 경로 변환에서 네트워크/인증 문제로 변환 실패 시 바탕화면에 저장할 수 있음.
+- QRCoder 패키지 설치되지 않으면 빌드 오류 발생.
+
+## 요구사항
+- .NET Framework 4.7.2 이상 (또는 .NET 6+).
+- NuGet 패키지: `QRCoder` (QR 생성 라이브러리).
+
+## 설치
+1. GitHub에서 소스 코드 클론:
    ```
    git clone https://github.com/system07/QR_Maker_1.git
    ```
-2. Visual Studio���� ������Ʈ ���� (`QR_Maker_1.sln`).
-3. NuGet ��Ű�� ����: `Tools > NuGet Package Manager > Restore NuGet Packages`.
-4. ����: `Build > Build Solution` (Release ��� ��õ).
+2. Visual Studio에서 프로젝트 열기 (`QR_Maker_1.sln`).
+3. NuGet 패키지 복원: `Tools > NuGet Package Manager > Restore NuGet Packages`.
+4. 빌드: `Build > Build Solution` (Release 모드 추천).
 
-## ����
-### ���� ���
-1. **���� ����**: Button1 Ŭ�� �� ���� ���� �� �ڵ� QR ����/�̸�����/����.
-2. **URL/�ؽ�Ʈ �Է�**: textBox1�� URL(��: `https://example.com/file.txt`) �Ǵ� ��� �Է� �� Button2 Ŭ�� �� QR ����.
-3. ECC ����: ComboBox�� ���� ���� �� �ڵ� ����.
+## 사용법
+### 단일 모드
+1. **파일 선택**: Button1 클릭 → 파일 선택 → 자동 QR 생성/미리보기/저장.
+2. **URL/텍스트 입력**: textBox1에 URL(예: `https://example.com/file.txt`) 또는 경로 입력 → Button2 클릭 → QR 생성.
+3. ECC 변경: ComboBox로 수준 선택 → 자동 갱신.
 
-### ��ġ ���
-- CSV ����: 
-  - 2��: `Name,Path` (��� �ɼ�).
-  - 1��: Path�� (�̸� �ڵ� ����).
-- ButtonBatch Ŭ�� �� CSV ���� �� ���� ���� ���� �� ����.
+### 배치 모드
+- CSV 형식: 
+  - 2열: `Name,Path` (헤더 옵션).
+  - 1열: Path만 (이름 자동 유추).
+- ButtonBatch 클릭 → CSV 선택 → 저장 폴더 선택 → 생성.
 
-## ����
-- WebDAV: HTTPS (��Ʈ 5006) �⺻. ��� ���� ���� (`Form1.cs`).
-- QR ũ��: 500x500px (PixelsPerModule=10).
+## 구성
+- WebDAV: HTTPS (포트 5006) 기본. 상수 수정 가능 (`Form1.cs`).
+- QR 크기: 500x500px (PixelsPerModule=10).
 
-## ���� �ذ�
-- ����: �ܼ� �Ǵ� label1 Ȯ�� (��: ��� ��ȿ �� ����ũ�� fallback).
-- ������: QRCoder ��ġ Ȯ��.
+## 문제 해결
+- 오류: 콘솔 또는 label1 확인 (예: 경로 무효 시 데스크톱 fallback).
+- 의존성: QRCoder 설치 확인.
 
-## ���̼���
-MIT License. �ڼ��� ������ [LICENSE](LICENSE) ���� ����.
+## 라이선스
+MIT License. 자세한 내용은 [LICENSE](LICENSE) 파일 참조.
+
+## 문의 및 피드백
+GitHub 리포지토리 이슈(issues) 또는 Pull Request로 접수 바랍니다.
 
 ---
 
-*�ۼ���: 2025-11-28 | ����: 1.0*
+*작성일: 2025-11-28 | 버전: 1.0*

@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{C3604AF7-F17E-4B0D-889F-3AADE92BFD14}|QR_Maker_1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3604AF7-F17E-4B0D-889F-3AADE92BFD14}|QR_Maker_1.csproj|c:\\00_data\\onedrive - system07\\0001 doc now\\100 my\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 qr_maker_1.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C3604AF7-F17E-4B0D-889F-3AADE92BFD14}|QR_Maker_1.csproj|C:\\00_Data\\OneDrive - system07\\0001 DOC now\\100 MY\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 QR_Maker_1.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C3604AF7-F17E-4B0D-889F-3AADE92BFD14}|QR_Maker_1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,20 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\00_Data\\OneDrive - system07\\0001 DOC now\\100 MY\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 QR_Maker_1.1\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\00_Data\\OneDrive - system07\\0001 DOC now\\100 MY\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 QR_Maker_1.1\\README.md*",
+              "RelativeToolTip": "README.md*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwDgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-08T03:48:21.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -51,19 +64,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-11-28T09:36:23.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\00_Data\\OneDrive - system07\\0001 DOC now\\100 MY\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 QR_Maker_1.1\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\00_Data\\OneDrive - system07\\0001 DOC now\\100 MY\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 QR_Maker_1.1\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-11-28T09:35:52.969Z",
               "EditorCaption": ""
             },
             {
@@ -88,8 +88,7 @@
               "ToolTip": "C:\\00_Data\\OneDrive - system07\\0001 DOC now\\100 MY\\1001 \uCDE8\uBBF8\uC6A9\uC18C\uD504\uD2B8\\10 QR_Maker_1.1\\Form1.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T09:32:51.494Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2025-11-28T09:32:51.494Z"
             }
           ]
         }
